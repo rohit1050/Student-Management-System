@@ -37,7 +37,7 @@ Current features
 
 # Installation
 
-- First Clone the repo with `git clone https://github.com/adilmohak/django-lms.git`
+- First Clone the repo with `git clone https://github.com/xxxxxx/django-lms.git`
 
 - Create and activate a python virtual environment
 
